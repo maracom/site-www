@@ -1,5 +1,5 @@
 ---
-title: A tour of the Dart language
+title: Dart 언어 둘러보기
 description: A tour of all of the major Dart language features.
 short-title: Language tour
 ---
